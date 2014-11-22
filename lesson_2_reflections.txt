@@ -3,3 +3,6 @@ What happens when you initialize a repository? Why do you need to do it?
 Git creates a folder for the metadata to be stored to track commits and begins watching for commits.
 So it can do its job.
 
+Staging Area
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The working directory is an actual folder and the staging area is a virtual container.  The staging area provides a place to collect logically common files.
